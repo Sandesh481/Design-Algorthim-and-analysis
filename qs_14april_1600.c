@@ -1,3 +1,4 @@
+//code in c
 #include <stdio.h>
 int a[9] = {65, 70, 75, 80, 85, 60, 55, 50, 45};
 
